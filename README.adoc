@@ -1,0 +1,19 @@
+= Pivotal CF Advanced Operations Workshop
+
+
+This is an Intermediate/Advanced  Operations workshop. 
+The target is to remove roadblocks on Pivotal CF opportunities related to IT Operations and Dev Operations. 
+As opportunities mature, most of times it's much easier to win over the development team inside customers(which gets excited with the possibility of deploying their applications easier, without all the IT) then getting the buy-in from It Operations - often challenged by this "new way of doing things" and worried on supporting a new platform and everything that comes with it. Based on this, this workshop would be an opportunity to remove their concerns and get conversations going while validating aspects such as High Availability, Security, Monitoring, Auditing, Platform Scalability and Aggregated Logging.
+A secondary effect from this workshop would restricting the scope or even eliminating the need for PoCs - which are lots of the times scoped based on IT Ops requirements. 
+
+
+== Content
+
+ - Pivotal CF for IT Operators overview.
+ - Pivotal CF Architecture, containers and buildpacks.
+ - Physical Architecture and Topologies
+ - High Availability and Scalability.
+ - Services for IT Operators
+ - Security
+ - Monitoring and Aggregated Logging.
+
